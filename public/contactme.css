@@ -1,0 +1,106 @@
+#header {
+    margin: auto;
+    width: auto;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+    border-radius: 2rem;
+    font-size: 4rem;
+    font-style: italic;
+}
+#background{
+    background-color:rgb(34, 34, 171)
+}
+
+#contactMe{
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+}
+
+#contactMe-2{
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+}
+#contactMe-3{
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+}
+#contactMe-4{
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+}
+
+
+
+
+@media only screen and (min-width: 600px){
+    #contactMe {
+        background-color: rgb(237, 237, 237);
+        margin: 5rem;
+        text-align: center;
+        height: 13rem;
+        border-radius: 2rem;
+        display: flex;
+        flex-direction: row-reverse;
+        width: 13rem;
+        }
+     }
+    @media only screen and (min-width: 600px){
+    #contactMe-2 {
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+    }
+    }
+    @media only screen and (min-width: 600px){
+    #contactMe-3 {
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+    }
+    }
+    @media only screen and (min-width: 600px){
+    #contactMe-4 {
+    background-color: rgb(237, 237, 237);
+    margin: 5rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 13rem;
+    }
+    }

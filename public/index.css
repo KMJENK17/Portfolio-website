@@ -1,0 +1,93 @@
+#header {
+    margin: auto;
+    width: auto;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+    border-radius: 2rem;
+    font-size: 4rem;
+    font-style: italic;
+}
+#background{
+    background-color:rgb(34, 34, 171)
+}
+
+#Page-info-2 {
+    background-color:rgb(237, 237, 237);
+    margin: 1rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+}
+#Page-info-3 {
+    background-color:white;
+    margin: 1rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+}
+#Page-info-4 {
+    background-color:white;
+    margin: 1rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+}
+#Page-info-5 {
+    background-color:white;
+    margin: 1rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+}
+#Page-info-6 {
+    background-color:white;
+    margin: 1rem;
+    text-align: center;
+    height: 13rem;
+    border-radius: 2rem;
+}
+
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    width: 100%;
+    margin-top: -1rem;
+    height: 6rem;
+}
+
+@media only screen and (min-width: 600px){
+    #Page-info-2 {
+        background-color: white;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+}
+@media only screen and (min-width: 600px){
+    #Page-info-3 {
+        background-color: white;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+}
+@media only screen and (min-width: 600px){
+    #Page-info-4 {
+        background-color: white;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+}
+@media only screen and (min-width: 600px){
+    #Page-info-5 {
+        background-color: white;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+}
+@media only screen and (min-width: 600px){
+    #Page-info-6 {
+        background-color: white;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+}
+
